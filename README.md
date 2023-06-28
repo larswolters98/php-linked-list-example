@@ -1,3 +1,5 @@
+## Introduction
+
 This is a simple example of a [linked list](https://nl.wikipedia.org/wiki/Gelinkte_lijst) in PHP. It is not intended to be used in production, but rather to demonstrate 
 the concept of a linked list. A linked list is a data structure that consists of a group of nodes which together represent
 a sequence. 
@@ -14,6 +16,6 @@ of the data and the references to the previous and next element.
 1. Clone this repository & run `composer install`
 2. Run `php index.php` to see the output of the linked list
 
-## Testing
+## Testingg
 
 To run tests, run `./vendor/bin/phpunit tests` in the root directory.
