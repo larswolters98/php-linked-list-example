@@ -8,3 +8,12 @@ programming language](https://en.wikipedia.org/wiki/C_(programming_language)), l
 The major difference between an array and a linked list is their structure. An array is an index based data structure 
 where each element associated with an index. On the other hand, a linked list relies on references where each node consists
 of the data and the references to the previous and next element.
+
+## Installation
+
+1. Clone this repository & run `composer install`
+2. Run `php index.php` to see the output of the linked list
+
+## Testing
+
+To run tests, run `./vendor/bin/phpunit tests` in the root directory.
