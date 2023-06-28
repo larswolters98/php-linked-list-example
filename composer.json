@@ -1,0 +1,12 @@
+{
+    "name": "larswolters/linked-list-kata",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^10.2"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
