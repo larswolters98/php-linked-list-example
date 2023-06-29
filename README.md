@@ -1,4 +1,4 @@
-## PHP linked list example
+# PHP linked list example
 
 This is a simple example of a [linked list](https://nl.wikipedia.org/wiki/Gelinkte_lijst) in PHP. It is not intended to be used in production, but rather to demonstrate 
 the concept of a linked list. A linked list is a data structure that consists of a group of nodes that together represent
